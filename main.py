@@ -341,7 +341,7 @@ with video_container:
         st.video("https://youtu.be/edf8hZT0mxk", format="video/mp4", start_time=0)
 
 st.markdown(
-    "[GitHub Repository](https://github.com/your_github_repo_link)  \n"
+    "[GitHub Repository](https://github.com/Sp-bit-code/AI-Assistant)  \n"
     "_Click the link above to view the project source code._"
 )
 
