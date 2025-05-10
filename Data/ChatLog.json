@@ -1,0 +1,178 @@
+[
+    {
+        "role": "user",
+        "content": " hello"
+    },
+    {
+        "role": "assistant",
+        "content": "Hello! It's nice to meet you."
+    },
+    {
+        "role": "user",
+        "content": "hello"
+    },
+    {
+        "role": "assistant",
+        "content": "Hello! It's nice to meet you."
+    },
+    {
+        "role": "user",
+        "content": " current time"
+    },
+    {
+        "role": "assistant",
+        "content": "19:01:09"
+    },
+    {
+        "role": "user",
+        "content": "currrent time"
+    },
+    {
+        "role": "assistant",
+        "content": "19:01:09"
+    },
+    {
+        "role": "user",
+        "content": " hello."
+    },
+    {
+        "role": "assistant",
+        "content": "Hello!"
+    },
+    {
+        "role": "user",
+        "content": "hello"
+    },
+    {
+        "role": "assistant",
+        "content": "Hello!"
+    },
+    {
+        "role": "user",
+        "content": "linkedin ai sparsh"
+    },
+    {
+        "role": "assistant",
+        "content": "Results opened for LinkedIn search: sparsh"
+    },
+    {
+        "role": "user",
+        "content": " hellp"
+    },
+    {
+        "role": "assistant",
+        "content": "How can I help you?"
+    },
+    {
+        "role": "user",
+        "content": "hellp"
+    },
+    {
+        "role": "assistant",
+        "content": "How can I help you?"
+    },
+    {
+        "role": "user",
+        "content": " hi"
+    },
+    {
+        "role": "assistant",
+        "content": "Hi!"
+    },
+    {
+        "role": "user",
+        "content": "hi"
+    },
+    {
+        "role": "assistant",
+        "content": "Hi!"
+    },
+    {
+        "role": "user",
+        "content": " current temperature of lucknow"
+    },
+    {
+        "role": "assistant",
+        "content": "According to the search results, the current temperature of Lucknow is 99\u00b0F (37\u00b0C) with hazy sunshine and a RealFeel of 102\u00b0F (39\u00b0C). It's very hot, and caution is advised due to the risk of dehydration and heat stroke."
+    },
+    {
+        "role": "user",
+        "content": "current temperature of lucknow"
+    },
+    {
+        "role": "assistant",
+        "content": "According to the search results, the current temperature of Lucknow is 99\u00b0F (37\u00b0C) with hazy sunshine and a RealFeel of 102\u00b0F (39\u00b0C). It's very hot, and caution is advised due to the risk of dehydration and heat stroke."
+    },
+    {
+        "role": "user",
+        "content": "linkedin ai sparsh"
+    },
+    {
+        "role": "assistant",
+        "content": "Results opened for LinkedIn search: sparsh"
+    },
+    {
+        "role": "user",
+        "content": "Hello."
+    },
+    {
+        "role": "assistant",
+        "content": "Hello!"
+    },
+    {
+        "role": "user",
+        "content": "Tell me the current temperature of dubai."
+    },
+    {
+        "role": "assistant",
+        "content": "According to the search results, the current temperature of Dubai is 82\u00b0F (28\u00b0C) with clear skies and a RealFeel of 89\u00b0F (32\u00b0C). It's very warm, and caution is advised due to the high temperature."
+    },
+    {
+        "role": "user",
+        "content": "Kuchh nahin."
+    },
+    {
+        "role": "assistant",
+        "content": "It's okay."
+    },
+    {
+        "role": "user",
+        "content": "Hello hello."
+    },
+    {
+        "role": "assistant",
+        "content": "Hello!"
+    },
+    {
+        "role": "user",
+        "content": "What is the current time?"
+    },
+    {
+        "role": "assistant",
+        "content": "The current time is 13:49."
+    },
+    {
+        "role": "user",
+        "content": "Current stock price of apple."
+    },
+    {
+        "role": "assistant",
+        "content": "According to the search results, the current stock price of Apple (AAPL) is:\n\n* Open: $199.00\n* Prev Close: $197.49\n* Day High: $200.54\n* Day Low: $197.54\n* 52 Week High: $260.10\n* 52 Week Low: $169.21\n* Market Cap: $2.95T\n* Shares Outstanding: 14.94B\n* Public Float: 14.92B"
+    },
+    {
+        "role": "user",
+        "content": "What is the current time in lucknow?"
+    },
+    {
+        "role": "assistant",
+        "content": "The current time in Lucknow is 17:14:39."
+    },
+    {
+        "role": "user",
+        "content": "Okay, bye."
+    },
+    {
+        "role": "assistant",
+        "content": "Bye!"
+    }
+]
